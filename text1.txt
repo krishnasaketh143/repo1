@@ -1,0 +1,8 @@
+ Volume in drive C is Acer
+ Volume Serial Number is E0A2-1CFF
+
+ Directory of C:\Users\sunny\Desktop\myproject
+
+09/09/2017  04:26 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  188,547,682,304 bytes free
